@@ -5,7 +5,4 @@ Here you can download latest version of verified CH340G compatible drivers. Driv
 - Mac OSX Yosemite (10.10)
 - Windows 7
 - Windows 8 and above
-
-
-
- 
+- Linux
